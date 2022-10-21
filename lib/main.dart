@@ -17,7 +17,7 @@ class Assessment extends StatelessWidget {
                   UserAccountsDrawerHeader(
                     decoration: BoxDecoration(color: Colors.red),
                     accountName: Text("OSEJI O. AUGUSTINA"),
-                    accountEmail: Text("Oseji2augustina@gmaail.com"),
+                    accountEmail: Text("Oseji2augustina@gmail.com"),
                     currentAccountPicture: Icon(Icons.person),
                   )
                 ],
